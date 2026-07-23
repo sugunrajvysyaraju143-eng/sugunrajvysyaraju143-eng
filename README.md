@@ -29,5 +29,5 @@ SECTION B: About Me
   SECTION D: SOCIAL MEDIA LINKS
 
 - LinkedIn badge with link: https://www.linkedin.com/in/sugun-raj-vysyaraju-4a10a932a
-- Instagram badge with link
+- Instagram badge with link  
   
