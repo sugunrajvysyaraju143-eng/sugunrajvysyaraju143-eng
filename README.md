@@ -67,6 +67,12 @@
 
 ---
 
+Add this visitor counter:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sugunrajyysyaraju143-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ## ✨ Thanks for Visiting!
 
 ⭐ Feel free to connect with me on LinkedIn and explore my repositories.  
