@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm VYSYARAJU SUGUNARAJ</h1>
 
+<h3 align="center">
+  <strong>🤖 AI & ML Student | 🧠 DSA Enthusiast | 🌐 Java Full Stack Developer | ✨ Generative AI Enthusiast</strong>
+</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=☕+Java+%7C+🐍+Python+%7C+💻+C+%7C+🧠+DSA+%7C+🌐+Java+Full+Stack+Developer;🤖+AI+%26+ML+Student;✨+Generative+AI+Enthusiast;💡+Always+Learning+New+Technologies" />
 </p>
