@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VYSYARAJU SUGUNARAJ</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+AI+%26+ML+Engineer;Java+%7C+Python+%7C+C+Programmer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=%E2%98%95+Java+%7C+%F0%9F%90%8D+Python+%7C+%F0%9F%92%BB+C+%7C+%F0%9F%A7%A0+DSA+%7C+%F0%9F%8C%90+Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
