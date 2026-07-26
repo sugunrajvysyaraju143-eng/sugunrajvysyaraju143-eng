@@ -73,6 +73,10 @@ Add this visitor counter:
   <img src="https://komarev.com/ghpvc/?username=sugunrajyysyaraju143-eng&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugunrajvysyaraju143-eng&theme=github-dark)
+
 ## ✨ Thanks for Visiting!
 
 ⭐ Feel free to connect with me on LinkedIn and explore my repositories.  
