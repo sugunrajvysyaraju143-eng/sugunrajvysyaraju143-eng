@@ -16,6 +16,8 @@
 
 💻 Passionate about Artificial Intelligence and Machine Learning.
 
+💻 Passionate about Full Stack Java Development
+
 🌱 Currently learning Java, Python, DSA and AI.
 
 🚀 Interested in AI Projects, Open Source and Hackathons.
@@ -45,20 +47,14 @@
 
 ---
 
-# 🌐 Connect With Me
+## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sugun-raj-vysyaraju-4a10a932a)
-
+- 📧 Gmail: sugunrajvysyaraju143@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sugunrajyysyaraju143-eng&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sugunrajyysyaraju143-eng&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugunrajyysyaraju143-eng&layout=compact&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sugunrajvysyaraju143-eng&show_icons=true&theme=tokyonight)
 ---
 
 # 🏆 GitHub Trophies
@@ -77,7 +73,15 @@ Add this visitor counter:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sugunrajvysyaraju143-eng&theme=github-dark)
 
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sugunrajvysyaraju143-eng&theme=tokyonight)
+
+---
+
 ## ✨ Thanks for Visiting!
 
-⭐ Feel free to connect with me on LinkedIn and explore my repositories.  
+⭐ *Always Learning • Always Building • Turning Ideas into Code*  
   
