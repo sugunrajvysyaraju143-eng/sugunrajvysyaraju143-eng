@@ -22,7 +22,7 @@
 
 💻 Passionate about Full Stack Java Development
 
-🌱 Currently learning Java, Python, DSA and AI.
+🌱 Currently learning Java, Python, C++, DSA and AI.
 
 🚀 Interested in AI Projects, Open Source and Hackathons.
 
